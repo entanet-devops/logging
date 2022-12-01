@@ -1,2 +1,3 @@
 dependencies:
-  - src: entanet_devops.cloudwatch-agent
+  - src: https://github.com/entanet-devops/logging
+    version: add_template_and_vars
