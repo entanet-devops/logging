@@ -1,3 +1,2 @@
 dependencies:
   - src: https://github.com/entanet-devops/cloudwatch-agent
-    version: add_template_and_vars
