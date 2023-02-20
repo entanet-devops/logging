@@ -1,2 +1,2 @@
 dependencies:
-  - src: https://github.com/entanet-devops/cloudwatch-agent
+  - src: entanet_devops.amazon_cloudwatch_agent
